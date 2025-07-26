@@ -1,5 +1,5 @@
 ## Introduction
-LNLibEx is an extension library based on C++ NURBS Algorithms Library [LNLib](https://github.com/BIMCoderLiang/LNLib). <br/>
+LNLibEx  **（Work In Progress）** is an extension library based on C++ NURBS Algorithms Library [LNLib](https://github.com/BIMCoderLiang/LNLib).<br/>
 
 ## Features
 ### Data Exchange
